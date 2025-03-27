@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**yamikaratna/yamikaratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Yamika Ratna Kadiyala
 
-Here are some ideas to get you started:
+🎯 **Seeking full-time opportunities in Data/Business Analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Aspiring Data Analyst | Business Analyst | Tech Enthusiast**
+
+- 👀 Passionate about turning complex datasets into actionable insights and driving data-informed decisions.
+- 🌱 Keen interests in data analysis, visualization, predictive modeling, and business intelligence.
+- 🤝 Open to collaborating on innovative projects and exploring emerging technologies.
+- 📊 Enjoy automating data processes and building dynamic dashboards for better decision-making.
+- 📬 Let's connect and explore how data can shape the future together!
+
+---
+
+✨ **Skills & Tools**
+
+- **Data Analytics:** Python (Pandas, NumPy), SQL (Query Optimization, Data Extraction)
+- **Visualization:** Power BI, Tableau, Microsoft Excel (Advanced Analytics)
+- **Data Handling:** ETL Processes, Data Pipelines
+- **Soft Skills:** Problem-Solving, Communication, Collaboration, Time Management
+
+---
+
+🎓 **Education**
+
+- **Adelphi University, New York**  
+  Master’s in Business Analytics *(Aug 2023 – May 2025)*
+
+- **KL University, India**  
+  Bachelor’s in Computer Science *(May 2019 – Jun 2023)*
+
+- [LinkedIn](https://www.linkedin.com/in/yamikaratna) | [Tableau Portfolio](https://public.tableau.com/app/profile/yamika.ratna.kadiyala/vizzes)
