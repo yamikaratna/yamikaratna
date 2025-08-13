@@ -26,9 +26,6 @@
 🎓 **Education**
 
 - **Adelphi University, New York**  
-  Master’s in Business Analytics *(Aug 2023 – May 2025)*
-
-- **KL University, India**  
-  Bachelor’s in Computer Science *(May 2019 – Jun 2023)*
-
-- [LinkedIn](https://www.linkedin.com/in/yamikaratna) | [Tableau Portfolio](https://public.tableau.com/app/profile/yamika.ratna.kadiyala/vizzes)
+  Master’s in Business Analytics
+  
+ [Tableau Portfolio](https://public.tableau.com/app/profile/yamika.ratna.kadiyala/vizzes)
